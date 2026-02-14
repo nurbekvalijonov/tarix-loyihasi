@@ -1,0 +1,7 @@
+{
+  "name": "XIV–XV asrlarda Osiyo davlatlari va Amir Temur",
+  "description": "8-sinf tarix fani bo‘yicha akademik, tahliliy va interaktiv loyiha ishi. Amir Temur va Osiyo davlatlari qiyosiy tahlili.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
